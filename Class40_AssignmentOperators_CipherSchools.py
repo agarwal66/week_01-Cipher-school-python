@@ -1,0 +1,14 @@
+name="prateek"
+name=name+"agarwal"
+print(name)
+name+="good"
+print(name)
+age=23
+age+=2
+print(age)
+age=34
+age*=2
+print(age)
+age=56
+age-=2
+print(age)
